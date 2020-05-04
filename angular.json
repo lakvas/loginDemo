@@ -118,5 +118,8 @@
       }
     }
   },
-  "defaultProject": "login"
+  "defaultProject": "login",
+  "cli": {
+    "analytics": "8d03e0f8-6f82-47b8-ad13-612c75a82e2a"
+  }
 }
